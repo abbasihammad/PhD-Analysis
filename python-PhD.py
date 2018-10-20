@@ -18,7 +18,7 @@ Python code
 # Set your working directory with os.chdir()
 # importing packages required for manipulating the data 
 
-import os 
+import os  
 import pandas as pd
 import numpy as np
 import matplotlib as mlt
