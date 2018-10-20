@@ -5,8 +5,10 @@ Created on Tue Mar 27 16:09:22 2018
 This code is part of the author's PhD dissertation
 Copyright (C) 2018
 
+Objective: To perform the data preprocessing to prepare the data for the analysis of the author's PhD dissertation
 Langauges used: Python, SAS, and SQL
 Packages used in Python: Numpy, Pandas, OS 
+Procedure & tools used in SAS : Proc means, Proc Freq, Proc Import, Proc Export, Proc logistics, Proc SQL, Macros
 """
 
 
@@ -18,7 +20,6 @@ Python code
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 import os 
 =======
 import os  
@@ -26,9 +27,6 @@ import os
 =======
 import os  
 >>>>>>> 02b13776f06bfef6c2d526266e892d98ac9a1304
-=======
-import os 
->>>>>>> parent of 76bf40c... Analysis slides
 import pandas as pd
 import numpy as np
 import matplotlib as mlt
