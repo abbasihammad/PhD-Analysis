@@ -16,17 +16,9 @@ Procedure & tools used in SAS : Proc means, Proc Freq, Proc Import, Proc Export,
 Python code
 """
 # Set your working directory with os.chdir()
-# importing packages required for manipulating the data 
+# importing packages required for manipulating the data
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 import os 
-=======
-import os  
->>>>>>> 02b13776f06bfef6c2d526266e892d98ac9a1304
-=======
-import os  
->>>>>>> 02b13776f06bfef6c2d526266e892d98ac9a1304
 import pandas as pd
 import numpy as np
 import matplotlib as mlt
